@@ -1,0 +1,1658 @@
+{
+    "name": "F3 System",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "DISCORD.GG/F3System",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📚・termos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "DISCORD.GG/F3System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📢・avisos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "DISCORD.GG/F3System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎁・sorteio",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "DISCORD.GG/F3System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👋・invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "DISCORD.GG/F3System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Invite Tracker",
+                                "allow": "2112",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📢・backup",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "DISCORD.GG/F3System",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Invite Tracker",
+                                "allow": "2112",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🚀・BOOSTER",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀・impulsos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀・BOOSTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Acesso Genv1",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀・vantagens",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀・BOOSTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀・1500-m3t0d0s",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🚀・BOOSTER",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Booster",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "❤・CONFIANÇA",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚚・payments-bot",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❤・CONFIANÇA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❤・feedback",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❤・CONFIANÇA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔔・SUPORTE",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔖・ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔・SUPORTE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Ticket Tool",
+                                "allow": "3136",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Sapphire",
+                                "allow": "3136",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦pedir-estoque",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "🔔・SUPORTE",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-0020",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔・SUPORTE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket-0024",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔・SUPORTE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🌐・COMUNIDADE",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌐・COMUNIDADE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "131072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌐・COMUNIDADE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "131072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🛒・DISCORD",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・at1v4çao-n1tr0",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・nitr0-tr1mensal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・nitr0-m3nsal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・nitr0-gift",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・c0nt4-v1rg3m",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・n1trad4s",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・n1tr0-g1ft-unchecked",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・1mpuls0s",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🛒・DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "📺・STREAMING",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・sp0t1fy-anu4l",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・sp0t1fy-m3nsal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・y0utub3",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・cruñchyr0ll",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・pr1m3-v1d3os",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・hb0-m4x",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・p4r4m0unt",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📺・ass1n4tur4s-nfa",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📺・STREAMING",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔑・STEAM KEYS",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔑・st3am-k3ys",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑・STEAM KEYS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔑・st3am-k3ys-90",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑・STEAM KEYS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔑・st3am-k3ys-200",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔑・STEAM KEYS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔧・DIVERSOS",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・p4ck-frost7",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧・DIVERSOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・p4ck-d3sign3r",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧・DIVERSOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・l0j4-pr0nta",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧・DIVERSOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・p4inel-segu1dor3s",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧・DIVERSOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・p4inel-1mpuls0s",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧・DIVERSOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔧・m3t0dos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔧・DIVERSOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "📦・GERADOR",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦・acesso-g3r4dor",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📦・GERADOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔍・provas-g3r4dor",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📦・GERADOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Acesso Genv1",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Staff",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦・g3r4dor-pr3m1um",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "📦・GERADOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Acesso Genv1",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦・g3r4dor-b00ster",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "📦・GERADOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Booster",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Acesso Genv1",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦・g3r4dor-fr3e",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "📦・GERADOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Acesso Genv1",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🤝・PARCERIAS",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝・parcerias-free",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🤝・PARCERIAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝・pedir-parcerias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🤝・PARCERIAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝・req",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🤝・PARCERIAS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ".gg/Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ".gg/Futuros Clientes",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "adm",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "cmds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ".gg/Staff",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "logs-vendas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "logs-ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "logs-invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・4zmary",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": "carrinho_1220825953064980540",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・rodri_wasd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": "carrinho_788936130388426772",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・cyberanonimo",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": "carrinho_1227755118284378223",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・zyparzival",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": "carrinho_1140735836506296350",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・secrethackerworld",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": "carrinho_1229618901260828692",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒・brenimmm_58307",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "adm",
+                        "topic": "carrinho_1189027872875237407",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "Owner",
+            "color": "#050505",
+            "hoist": true,
+            "permissions": "420009146318847",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/Staff",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/Acesso Genv1",
+            "color": "#1900ff",
+            "hoist": true,
+            "permissions": "137439251521",
+            "mentionable": true,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/Clientes",
+            "color": "#fffc00",
+            "hoist": true,
+            "permissions": "137439251521",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/Futuros Clientes",
+            "color": "#00ff04",
+            "hoist": true,
+            "permissions": "137439218753",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/Bots",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "2222085186637377",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1718134293443,
+    "guildID": "1222545272559632464",
+    "id": "1250170580523679744",
+    "iconURL": "https://cdn.discordapp.com/icons/1222545272559632464/e7b0ee1fbc1ed67053ec9d236a1faedd.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/1222545272559632464/f02d3a711dde972e34f43bcdb6457829.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/1222545272559632464/0c14db413af55a798ce9bd908b3b8495.webp"
+}
